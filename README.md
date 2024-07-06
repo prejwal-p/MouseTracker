@@ -15,10 +15,12 @@ Software to help you track animal trajectories for behavioral experiments.
 
 ### Single Animal Tracking
 This works best for a single animal.
+
 ![mouse](https://github.com/prejwal-p/MouseTracker/blob/main/images/mouse.gif)
 
 ### Multi Animal Tracking
 The centroid detection in multi-animals does not work very well.
+
 ![fly](https://github.com/prejwal-p/MouseTracker/blob/main/images/fly.gif)
 
 
